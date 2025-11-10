@@ -2,7 +2,6 @@
 
 The Completion of Academic Journey is a CG Project story that defines the problems of education in our current society, and how we are far off from an actual smart world.
 
-< width="1395" alt="The Completion of Academic Journey by Sujon kumar." src="https://cloud.githubusercontent.com/assets/1134738/25937234/7dddde90-3648-11e7-825a-8da719b7fff4.png">
 
 ## Scene Breakdown
 1. Introduction Screen
